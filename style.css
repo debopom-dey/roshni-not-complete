@@ -1,0 +1,123 @@
+body{
+   
+   
+        background-image: linear-gradient(lightblue,white,orange,red);
+      padding: 800px;
+      
+}
+.grid{
+    position: absolute;
+top:10%;
+left :0%;
+
+}
+.header img{
+    border-radius: 50px;
+   position: absolute;
+   top: 100%;
+   left: 1%;
+   border: 2.5px solid#000000;
+}
+
+.origami{
+    border-radius: 20px;
+    background-image: linear-gradient(lightblue,white);
+    width: 990px;
+   height:200px;
+    margin: 25px;
+    padding:10px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    position: absolute;
+    bottom: -100%;
+    left: 17%;
+}
+
+.papa{
+    border-radius: 20px;
+    background-image: linear-gradient(#f7d100,white,#f7d100);
+    width: 990px;
+   height:200px;
+    margin: 25px;
+    padding:10px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    position: absolute;
+    bottom: -200%;
+    left: 17%;
+}
+.papa img{
+    bottom:-1%;
+    left: -23%;
+position: absolute;
+border-radius: 20px;
+border: 2.5px solid#000000;
+}
+.mamma{
+    border-radius: 20px;
+    background-image: linear-gradient(#f7d100,white,#f7d100);
+    width: 990px;
+   height:200px;
+    margin: 25px;
+    padding:10px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    position: absolute;
+    bottom: -300%;
+    left: 17%;
+}
+.mamma img{
+    bottom:-3%;
+    left: -20%;
+position: absolute;
+border-radius: 20px;
+border: 2.5px solid#000000;
+}
+.wehave{
+    top: 400%;
+    position: absolute;
+    left: 50%;
+}
+.employee1{
+    border-radius: 20px;
+    background-image: linear-gradient(lightyellow,yellow,orange);
+    width: 300px;
+    height: 400px;
+   position: absolute;
+    padding:10px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    top: 120%;
+    left: -500%;
+}
+.employee2{
+    border-radius: 20px;
+    background-image: linear-gradient(lightyellow,yellow,orange);
+    width: 300px;
+    height: 400px;
+   position: absolute;
+    padding:10px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    top: 120%;
+    left: -100%;
+}
+.employee3{
+    border-radius: 20px;
+    background-image: linear-gradient(lightyellow,yellow,orange);
+    width: 300px;
+    height: 400px;
+   position: absolute;
+    padding:10px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    top: 120%;
+    left: 250%;
+}
+.ROSHNI{
+    position: absolute;
+    top:-1300%;
+    left: 700%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial','sans-serif';
+    font-size: 350%;
+}
